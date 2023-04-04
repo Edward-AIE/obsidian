@@ -1,0 +1,1 @@
+Rimar is a human woman who the players will encounter in the warlock’s whiskey as a part time bartender. She is loud and jolly and gets all the gossip. Including the quest that she offers.

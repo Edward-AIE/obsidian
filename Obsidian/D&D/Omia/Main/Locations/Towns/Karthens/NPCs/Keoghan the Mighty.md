@@ -1,0 +1,3 @@
+Keoghan is the bartender in the Thirsty Troll tavern and inn. He is a tall, burly human who speaks in a deep voice but has a comical passion for crochet. He is on board with most of the characters plans and is aware of the goblin problem and the Gambling individual who frequents the tavern and scares all his patrons away.
+
+Voice: Slashing, Mixed, Breathy, Middle aged, Male, Large, Medium, Loud, Friendly

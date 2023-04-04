@@ -1,0 +1,2 @@
+**| Magic armour | 1000GP | Legendary | Attunement |**
+This plate armour is crafted of the scales of an ancient black dragon. It reduces all damage taken by your level. It also allows the wearer to, once per short rest, expel black flames from the gaps between the armour, calling for a DEX save of a DC of 10 + your level + your proficiency bonus. Dealing 6d6 on a failed save and half as much on a successful one. 

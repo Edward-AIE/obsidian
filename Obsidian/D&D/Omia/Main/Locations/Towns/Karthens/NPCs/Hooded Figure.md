@@ -1,0 +1,1 @@
+The Hooded Figure appears only in the tavern and only when there is nobody else around excluding Keoghan. His voice is high pitched. He has a dark cloak on, is missing his right arm, has thin, grey, bony hands and does not show his face, keeping it in the shadows of the cloak.  He enjoys gambling and occasionally gambles with people who enter the tavern while he is in there.

@@ -1,0 +1,1 @@
+Peter is a lanky elf of about 40 years who owns a house to the east of Karthens. He is soft spoken and fairly shy but clearing out the pit in his backyard is worth talking to the adventurers for. He is aware of the goblin problem.

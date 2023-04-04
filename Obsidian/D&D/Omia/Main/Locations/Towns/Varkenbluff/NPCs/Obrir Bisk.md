@@ -1,0 +1,1 @@
+Obrir is a sad, middle aged human man who drinks his sorrows away in the Drunken Dragonborn. He is highly intoxicated when the players find him and will offer the quest in return for solitude.

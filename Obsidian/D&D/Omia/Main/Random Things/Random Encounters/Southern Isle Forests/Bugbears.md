@@ -1,0 +1,1 @@
+1d4+1 [[Bugbear]]s are roaming the area. If they see the players, they are territorial about this part of the woods and they attack.

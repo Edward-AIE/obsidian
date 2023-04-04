@@ -1,0 +1,1 @@
+There is a wizard ([[The Wizard]]) just north of the town who runs what could technically be considered a store. It is a run down shack with an overgrown garden. Inside the shack a darkness spell is always cast, so the players are unable to see. The wizard is able to enchant existing items or create magic items at the discretion of the DM, depending on player level.

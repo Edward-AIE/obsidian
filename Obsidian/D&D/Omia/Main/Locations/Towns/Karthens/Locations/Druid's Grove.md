@@ -1,0 +1,1 @@
+Run by [[Briar Laurelmist]], the Druid's grove is just north of the Thirsty Troll tavern and sells various herbs, minor magical items made from local flora, and magical ingredients. It also serves as a healer.
