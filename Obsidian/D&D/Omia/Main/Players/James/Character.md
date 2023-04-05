@@ -1,32 +1,27 @@
 ### General
-###### Level
-###### Class
-###### Race
-###### Features and Traits
+*Class:*
+*Level:*
+*Background:*
+*Race:*
+*Alignment:*
 
+### Abilities & Skills
+*STR:*
+*DEX:*
+*CON:*
+*INT:*
+*WIS:*
+*CHA:*
 
-### Ability Scores
-| STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     |
+*Proficiencies:*
 
-### Proficiencies
-###### Proficiency bonus:
+### Combat Necessary
+*AC:*
+*AS:*
+*HP:*
+*SDC:*
 
-
-### Passives
-###### AC:
-###### Perception:
-
-
-### Spellcasting
-
-
-### Inventory
-###### Items
-
-###### Money
-
-###### Weapons
-
-###### Equipped
+### Items
+*Equipped:*
+*On Person:*
+*Stored Elsewhere:*

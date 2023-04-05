@@ -1,4 +1,3 @@
-The characters come across a cave containing a man wearing torn up rags on the ground eating bananas (at what you can only assume is roughly 63 bananas per second) that come out of an extradimensional portal. 
-He does not stand up, instead he turns his eyes to the characters and says, telepathically,
+A man in raggedy clothes sits in a corner in the back of a cave, making snaffling snarling sounds. It is too dark for anyone without darkvision to see, but anyone who has darkvision notices that he is pulling bananas out of a bag of holding, eating them alarmingly fast, and then throwing the peel in a pile to his right. 
 
-"I am bananas george. I eat 2 billion bananas per year. It has been this way for over 6 years, when i was cursed to eat bananas for all eternity. The bananas have given me capabilities beyond comprehension. Do not come near me, for I have a radioactive aura caused by the bananas."
+"I am bananas george and I eat roughly 2 million bananas per year. This is voluntary, as I quite like bananas," he says, with a surprisingly sane, if not aristocratic tone. 
