@@ -17,9 +17,8 @@
 		{"type":"file","file":"5e/Creatures/Goblin.md","id":"e605169605020458","x":-814,"y":-360,"width":174,"height":50},
 		{"type":"text","text":"### HP: 7\n### Number: 1\n### Conditions:","id":"4c091d844a54c93d","x":-814,"y":-310,"width":194,"height":128},
 		{"type":"text","text":"## Initiative","id":"64c4c2e1e258c39f","x":-808,"y":-520,"width":163,"height":50},
-		{"id":"ba0623cca799cca9","x":380,"y":-360,"width":400,"height":520,"type":"file","file":"Omia/Prologue/Players/Reuven/Monkey.md"},
-		{"type":"text","text":"# <---","id":"de310900bf7e1f12","x":-206,"y":-232,"width":115,"height":50},
-		{"id":"978717af3e881bd0","x":1500,"y":-360,"width":220,"height":50,"type":"file","file":"5e/Creatures/Hill Giant.md"},
+		{"type":"file","file":"Omia/Prologue/Players/Reuven/Monkey.md","id":"ba0623cca799cca9","x":380,"y":-360,"width":400,"height":520},
+		{"type":"file","file":"5e/Creatures/Hill Giant.md","id":"978717af3e881bd0","x":1500,"y":-360,"width":220,"height":50},
 		{"type":"text","text":"### 9","id":"bad874b206381212","x":1414,"y":-360,"width":86,"height":50},
 		{"type":"text","text":"### HP: 7\n### Number: 5\n### Conditions:","id":"db3917d5083ae583","x":1500,"y":-310,"width":194,"height":128},
 		{"type":"text","text":"### 8","id":"37528a16446be674","x":1920,"y":-360,"width":86,"height":50},
@@ -27,7 +26,8 @@
 		{"type":"text","text":"### HP: 7\n### Number: 5\n### Conditions:","id":"dfa1d9f47cc9c2e4","x":2006,"y":-310,"width":194,"height":128},
 		{"type":"text","text":"### 7","id":"268c23a90820c537","x":2360,"y":-360,"width":86,"height":50},
 		{"type":"file","file":"5e/Creatures/Goblin.md","id":"69ef1b323eeddae3","x":2446,"y":-360,"width":174,"height":50},
-		{"type":"text","text":"### HP: 7\n### Number: 6\n### Conditions:","id":"d3fdd720a250a46e","x":2446,"y":-310,"width":194,"height":128}
+		{"type":"text","text":"### HP: 7\n### Number: 6\n### Conditions:","id":"d3fdd720a250a46e","x":2446,"y":-310,"width":194,"height":128},
+		{"type":"text","text":"# <---","id":"de310900bf7e1f12","x":-620,"y":-232,"width":115,"height":50}
 	],
 	"edges":[
 		{"id":"05322f1df64cbfa5","fromNode":"69ef1b323eeddae3","fromSide":"right","toNode":"e605169605020458","toSide":"top"},

@@ -24,14 +24,12 @@
             "id": "d3f1d2cb585ea24c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Combat Manager.canvas",
-                "viewState": {
-                  "x": 1037.0454671688772,
-                  "y": -268.29626614100295,
-                  "zoom": -0.7897190341190614
-                }
+                "file": "Omia/Prologue/Players/Reuven/Monkey.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -102,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combat Manager.canvas",
+                "file": "Omia/Prologue/Players/Reuven/Monkey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combat Manager.canvas",
+                "file": "Omia/Prologue/Players/Reuven/Monkey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combat Manager.canvas"
+                "file": "Omia/Prologue/Players/Reuven/Monkey.md"
               }
             }
           },
@@ -174,10 +172,11 @@
   },
   "active": "d3f1d2cb585ea24c",
   "lastOpenFiles": [
+    "5e/Artificer.md",
     "Omia/Prologue/Players/Reuven/Monkey.md",
+    "Combat Manager.canvas",
     "5e/Creatures/Goblin.md",
     "5e/Races/Hadozee.md",
-    "Combat Manager.canvas",
     "5e/Backgrounds",
     "5e/Races",
     "Omia/Prologue/Players/Tash/Character.md",
