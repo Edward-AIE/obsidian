@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0175af2ac674263",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Omia/Main/Random Things/Random Encounters/South Omia Hills/Ogre Encampment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "aea78d3ca53cc461",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5e/Creatures/Awakened Trees.md",
+                "file": "Omia/Main/Players/James/Character.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omia/Main/Random Things/Random Encounters/South Omia Hills/Ogre Encampment.md",
+                "file": "Omia/Main/Players/James/Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omia/Main/Random Things/Random Encounters/South Omia Hills/Ogre Encampment.md",
+                "file": "Omia/Main/Players/James/Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Omia/Main/Random Things/Random Encounters/South Omia Hills/Ogre Encampment.md"
+                "file": "Omia/Main/Players/James/Character.md"
               }
             }
           },
@@ -167,8 +155,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0175af2ac674263",
+  "active": "aea78d3ca53cc461",
   "lastOpenFiles": [
+    "Combat Manager.canvas",
+    "5e/Creatures/Giant Centipede.md",
+    "5e/Creatures/Goblin.md",
+    "Omia/Main/Players/James/Character.md",
+    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Goblin Camp.md",
+    "5e/Creatures/Awakened Trees.md",
+    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Lost Child.md",
+    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Mysterous Stranger.md",
+    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Orc Patrol.md",
+    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Stalking Owlbear.md",
+    "Omia/House Rules.md",
+    "Omia/Main/Random Things/Random Encounters/South Omia Hills/Ogre Encampment.md",
+    "Omia/Main/Random Things/Random Encounters/South Omia Hills/Orcs.md",
+    "Omia/Main/Locations/Towns/Varkenbluff/Locations/Taverns/Random Taverns.md",
+    "Omia/Main/Locations/Towns/Varkenbluff/Locations/Shops/Random General Store.md",
+    "Omia/Main/Locations/Towns/Varkenbluff/NPCs/Crime Boss.md",
+    "Omia/Main/Locations/Towns/Karthens/Available quests/Main Quest.md",
+    "Omia/Main/Locations/Towns/Karthens/Available quests/Snake Eyes.md",
+    "Omia/Main/Random Things/Random Encounters/South Omia Hills/Chimera Encounter.md",
+    "Omia/Main/Random Things/Random Encounters/South Omia Hills/Hill Giant Encounter.md",
+    "Images/Pasted image 20230405131540.png",
     "Images/Pasted image 20230404140000.png",
     "Images/Pasted image 20230404135539.png",
     "Images/Pasted image 20230404135532.png",
@@ -177,35 +186,13 @@
     "Images/Pasted image 20230404104128.png",
     "Images/Pasted image 20230404103839.png",
     "Images/Pasted image 20230404103759.png",
-    "Combat Manager.canvas",
     "5e/Creatures/Ogre.md",
     "5e/Creatures/Hill Giant.md",
     "5e/Creatures/Chimera.md",
     "5e/Creatures/Ankheg.md",
-    "Omia/Main/Random Things/Random Encounters/South Omia Hills/Orcs.md",
-    "Omia/Main/Random Things/Random Encounters/South Omia Hills/Ogre Encampment.md",
     "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Table/Random Encounters.md",
     "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Awakened Trees' Riddle.md",
-    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Bandit Hideout.md",
-    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Bandits in the Trees.md",
-    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Bugbears.md",
-    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Giant Ant Hill.md",
-    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Goblin Ambush.md",
-    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Goblin Camp.md",
-    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Lost Child.md",
-    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Mysterous Stranger.md",
-    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Orc Patrol.md",
-    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Stalking Owlbear.md",
-    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Unhinged Druid.md",
-    "Omia/Main/Random Things/Random Encounters/Random encounters.md",
-    "Omia/Main/Random Things/Standard NPC/Standard NPC.md",
-    "Omia/Main/Random Things/Standard NPC/Voice.md",
-    "Omia/Main/Random Things/Pierre Laurent.md",
-    "Omia/Main/Random Things/Random Tavern Names.md",
-    "Omia/Main/Overview.md",
     "Pasted image 20230404104128.png",
-    "Pasted image 20230404103839.png",
-    "Pasted image 20230404103759.png",
     "5e/Misc Rules",
     "5e/Creatures",
     "5e/Items",
