@@ -13,13 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omia/Main/Players/James/Character.md",
+                "file": "Omia/Prologue/Players/Reuven/Monkey.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3f1d2cb585ea24c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Combat Manager.canvas",
+                "viewState": {
+                  "x": 1037.0454671688772,
+                  "y": -268.29626614100295,
+                  "zoom": -0.7897190341190614
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omia/Main/Players/James/Character.md",
+                "file": "Combat Manager.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omia/Main/Players/James/Character.md",
+                "file": "Combat Manager.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Omia/Main/Players/James/Character.md"
+                "file": "Combat Manager.canvas"
               }
             }
           },
@@ -155,12 +172,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aea78d3ca53cc461",
+  "active": "d3f1d2cb585ea24c",
   "lastOpenFiles": [
-    "Combat Manager.canvas",
-    "5e/Creatures/Giant Centipede.md",
+    "Omia/Prologue/Players/Reuven/Monkey.md",
     "5e/Creatures/Goblin.md",
+    "5e/Races/Hadozee.md",
+    "Combat Manager.canvas",
+    "5e/Backgrounds",
+    "5e/Races",
+    "Omia/Prologue/Players/Tash/Character.md",
+    "Omia/Main/Players/James/Homebrew/Mallet.md",
+    "Omia/Prologue/Players/Reuven/Character.md",
     "Omia/Main/Players/James/Character.md",
+    "Omia/Main/Players/Untitled",
+    "5e/Creatures/Giant Centipede.md",
     "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Goblin Camp.md",
     "5e/Creatures/Awakened Trees.md",
     "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Lost Child.md",
@@ -187,11 +212,6 @@
     "Images/Pasted image 20230404103839.png",
     "Images/Pasted image 20230404103759.png",
     "5e/Creatures/Ogre.md",
-    "5e/Creatures/Hill Giant.md",
-    "5e/Creatures/Chimera.md",
-    "5e/Creatures/Ankheg.md",
-    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Table/Random Encounters.md",
-    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Awakened Trees' Riddle.md",
     "Pasted image 20230404104128.png",
     "5e/Misc Rules",
     "5e/Creatures",
@@ -200,9 +220,6 @@
     "Omia/Prologue/Players/Tash/Homebrew",
     "Omia/Prologue/Players/Tash/Backstory",
     "Omia/Prologue/Players/Tash",
-    "Omia/Prologue/Players/Sienna/Backstory",
-    "Omia/Prologue/Players/Sienna/Homebrew",
-    "Omia/Prologue/Players/Sienna",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
