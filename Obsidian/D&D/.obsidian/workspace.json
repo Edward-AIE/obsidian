@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4c0e6fac1c1324a4",
+        "id": "276fcfd2bd678b9d",
         "type": "tabs",
         "children": [
           {
-            "id": "aea78d3ca53cc461",
+            "id": "5bc98136deeb87b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omia/Prologue/Players/Reuven/Monkey.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3f1d2cb585ea24c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Omia/Prologue/Players/Reuven/Monkey.md",
+                "file": "Omia/Main/Players/James/Homebrew/Oath of Worship Paladin.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omia/Prologue/Players/Reuven/Monkey.md",
+                "file": "Omia/Main/Players/James/Homebrew/Oath of Worship Paladin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omia/Prologue/Players/Reuven/Monkey.md",
+                "file": "Omia/Main/Players/James/Homebrew/Oath of Worship Paladin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Omia/Prologue/Players/Reuven/Monkey.md"
+                "file": "Omia/Main/Players/James/Homebrew/Oath of Worship Paladin.md"
               }
             }
           },
@@ -170,37 +156,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d3f1d2cb585ea24c",
+  "active": "5bc98136deeb87b0",
   "lastOpenFiles": [
-    "5e/Artificer.md",
+    "Omia/Main/Players/James/Character.md",
+    "Omia/Main/Players/James/Homebrew/Oath of Worship Paladin.md",
+    "Omia/Main/Players/James/Homebrew/Mallet.md",
     "Omia/Prologue/Players/Reuven/Monkey.md",
     "Combat Manager.canvas",
+    "5e/Spells/Dominate Person.md",
+    "5e/Spells/Wall of Fire.md",
+    "5e/Spells/Stoneskin.md",
+    "5e/Spells/Spiritual Weapon.md",
+    "5e/Spells/Remove Curse.md",
+    "5e/Spells/Hold Person.md",
+    "5e/Spells/Fear.md",
+    "5e/Spells/Dominate Beast.md",
+    "5e/Spells/Command.md",
+    "5e/Spells/Bestow Curse.md",
+    "5e/Spells/Armor of Agathys.md",
+    "5e/Spells",
+    "5e/Artificer.md",
     "5e/Creatures/Goblin.md",
     "5e/Races/Hadozee.md",
     "5e/Backgrounds",
     "5e/Races",
     "Omia/Prologue/Players/Tash/Character.md",
-    "Omia/Main/Players/James/Homebrew/Mallet.md",
     "Omia/Prologue/Players/Reuven/Character.md",
-    "Omia/Main/Players/James/Character.md",
     "Omia/Main/Players/Untitled",
     "5e/Creatures/Giant Centipede.md",
     "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Goblin Camp.md",
     "5e/Creatures/Awakened Trees.md",
     "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Lost Child.md",
     "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Mysterous Stranger.md",
-    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Orc Patrol.md",
-    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Stalking Owlbear.md",
-    "Omia/House Rules.md",
-    "Omia/Main/Random Things/Random Encounters/South Omia Hills/Ogre Encampment.md",
-    "Omia/Main/Random Things/Random Encounters/South Omia Hills/Orcs.md",
-    "Omia/Main/Locations/Towns/Varkenbluff/Locations/Taverns/Random Taverns.md",
-    "Omia/Main/Locations/Towns/Varkenbluff/Locations/Shops/Random General Store.md",
-    "Omia/Main/Locations/Towns/Varkenbluff/NPCs/Crime Boss.md",
-    "Omia/Main/Locations/Towns/Karthens/Available quests/Main Quest.md",
-    "Omia/Main/Locations/Towns/Karthens/Available quests/Snake Eyes.md",
-    "Omia/Main/Random Things/Random Encounters/South Omia Hills/Chimera Encounter.md",
-    "Omia/Main/Random Things/Random Encounters/South Omia Hills/Hill Giant Encounter.md",
     "Images/Pasted image 20230405131540.png",
     "Images/Pasted image 20230404140000.png",
     "Images/Pasted image 20230404135539.png",
@@ -210,7 +197,6 @@
     "Images/Pasted image 20230404104128.png",
     "Images/Pasted image 20230404103839.png",
     "Images/Pasted image 20230404103759.png",
-    "5e/Creatures/Ogre.md",
     "Pasted image 20230404104128.png",
     "5e/Misc Rules",
     "5e/Creatures",
@@ -218,7 +204,6 @@
     "5e",
     "Omia/Prologue/Players/Tash/Homebrew",
     "Omia/Prologue/Players/Tash/Backstory",
-    "Omia/Prologue/Players/Tash",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
