@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omia/Main/Players/James/Homebrew/Oath of Worship Paladin.md",
+                "file": "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Waypoint Fort.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f057f36c9cee944c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Day Map.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd35765dcac3dde8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Waypoint Fort.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omia/Main/Players/James/Homebrew/Oath of Worship Paladin.md",
+                "file": "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Waypoint Fort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omia/Main/Players/James/Homebrew/Oath of Worship Paladin.md",
+                "file": "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Waypoint Fort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Omia/Main/Players/James/Homebrew/Oath of Worship Paladin.md"
+                "file": "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Waypoint Fort.md"
               }
             }
           },
@@ -156,10 +183,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5bc98136deeb87b0",
+  "active": "fd35765dcac3dde8",
   "lastOpenFiles": [
-    "Omia/Main/Players/James/Character.md",
+    "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Night Map.md",
+    "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Day Map.md",
+    "Fort Foul Luck - Cloudy - Day - 44x32.jpg",
+    "Fort Foul Luck - Cloudy - Night - 44x32.jpg",
+    "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Waypoint Fort.md",
+    "Omia/Main/Locations/Adventure Locations/Waypoint Fort",
+    "Pasted image 20230406223456.png",
     "Omia/Main/Players/James/Homebrew/Oath of Worship Paladin.md",
+    "Omia/Main/Players/James/Character.md",
     "Omia/Main/Players/James/Homebrew/Mallet.md",
     "Omia/Prologue/Players/Reuven/Monkey.md",
     "Combat Manager.canvas",
@@ -185,9 +219,6 @@
     "Omia/Main/Players/Untitled",
     "5e/Creatures/Giant Centipede.md",
     "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Goblin Camp.md",
-    "5e/Creatures/Awakened Trees.md",
-    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Lost Child.md",
-    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Mysterous Stranger.md",
     "Images/Pasted image 20230405131540.png",
     "Images/Pasted image 20230404140000.png",
     "Images/Pasted image 20230404135539.png",
@@ -195,15 +226,11 @@
     "Images/Pasted image 20230404134842.png",
     "Images/Pasted image 20230404134836.png",
     "Images/Pasted image 20230404104128.png",
-    "Images/Pasted image 20230404103839.png",
-    "Images/Pasted image 20230404103759.png",
-    "Pasted image 20230404104128.png",
     "5e/Misc Rules",
     "5e/Creatures",
     "5e/Items",
     "5e",
     "Omia/Prologue/Players/Tash/Homebrew",
-    "Omia/Prologue/Players/Tash/Backstory",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
