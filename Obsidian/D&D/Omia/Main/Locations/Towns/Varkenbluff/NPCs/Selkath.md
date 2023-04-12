@@ -1,1 +1,0 @@
-Selkath is a dwarf who spends a fair amount of his time drinking in the Drunken Dragonborn. He is a bearded man with thick, deep red hair and a big beard stained with mead. He smells of alcohol.

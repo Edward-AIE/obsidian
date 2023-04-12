@@ -1,1 +1,0 @@
-An [[Owlbear]] is stalking the players. After about 5 minutes of stalking, the owlbear pounces out of the bushes and attacks.

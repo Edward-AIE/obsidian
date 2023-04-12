@@ -1,3 +1,0 @@
-- A public space run by unseen servant spells. 
-- A golem made of books with abhorrently long legs sees to it that everything is in its place and people stay quiet
-- An excellent place to search for occult knowledge if you know where to look

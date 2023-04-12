@@ -1,7 +1,0 @@
-***General Information***
-
-**Overarching Quest:**
-The players have been passing their days in a town called [[Karthens (overview)]]. It is here that they are hired to investigate suspicious goblin-townspeople interaction. This will lead them ot the Sunless Citadel, overrun with goblins and containing an apple tree that produces one perfectly white or red apple every 6 months. Run this out of Tales from the Yawning Portal. After this, the mayor of the town, [[Hannah Willowbrook]], gives them access to a boat and informs them that a coastal city on the mainland of Omia ([[Varkenbluff (overview)]]) is having some trouble of their own. The problem they have involves the gigantic anomaly that a wizard ([[Pierre Laurent]]) living in a tower to the north is trying to create. Stopping this wizard should be the end goal of the characters. Start the adventure in [[Karthens (overview)]] in the [[Thirsty Troll Inn and Tavern]], where the mayor will inquire about the players and whether or not they can help with the goblin problem.
-
-**Random Encounters:**
-The main way of keeping players interested during travel will be [[Random encounters]]. Each travel area has a random encounter table. If the cell in a table has a * in it, it can only be triggered once and then its dice rolls are taken up by the one below it. 

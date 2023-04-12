@@ -1,1 +1,0 @@
-The Thirsty Troll is a bustling location in Karthens and offers cheap food and cheap accommodation (20 copper for a meal and 1 silver a night for accommodation). It is run by [[Keoghan the Mighty]], who appears tough but has a soft spot for the players.

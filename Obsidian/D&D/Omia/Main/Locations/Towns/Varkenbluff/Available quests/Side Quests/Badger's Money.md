@@ -1,1 +1,0 @@
-A gnome named [[Badger]] had a bag of his gambling money stolen in the south part of town. The [[crime boss]] currently has it and is not a huge fan of the idea of giving it back. Badger will offer this quest as soon as the players purchase something from his store.

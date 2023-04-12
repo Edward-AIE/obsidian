@@ -1,3 +1,0 @@
-- Run by a dwarf woman named [[Taluka]]
-- Sells primarily leather armour
-- Has one plate armour set in the corner ([[The Inferno Plate]], 500GP)

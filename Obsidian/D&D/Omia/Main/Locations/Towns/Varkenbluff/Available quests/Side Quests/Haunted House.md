@@ -1,1 +1,0 @@
-A man ([[Obrir Bisk]]) in the Drunken Dragonborn tavern has heard rumours of a haunted house to the north of town. Once one NPC has told the players about this, many others should enforce the knowledge. Once the players arrive at the location, run it out of Ghosts of Saltmarsh.

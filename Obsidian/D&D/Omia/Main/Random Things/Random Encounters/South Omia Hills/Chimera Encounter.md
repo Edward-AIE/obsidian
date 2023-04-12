@@ -1,1 +1,0 @@
-A [[Chimera]] flies towards the players from far away, roaring as it comes. It lands in front of the players and, deciding it would be a fun time to hunt for sport, attacks.

@@ -1,4 +1,0 @@
-- Small workshop in the west of town run by a gnome named [[Badger]].
-- He likes money.
-- He will make small mechanical objects for the players and will overprice them to a shocking degree.
-- He will make larger and more complicated objects for the players once they have completed his side quest

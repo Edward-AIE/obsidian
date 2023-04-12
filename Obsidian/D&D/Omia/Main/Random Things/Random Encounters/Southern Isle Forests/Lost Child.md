@@ -1,1 +1,0 @@
-A young child is in the woods wanting to get back to his home in Karthens. The players can choose what to do from here.

@@ -1,1 +1,0 @@
-Jim Jam is an eccentric store owner. He prides himself on selling the widest range of the goofiest objects in all the land. Once the players meet Jim Jam in his emporium in Varkenbluff, he will appear at every mention of his name, right behind the players, in a makeshift stall laden in bags of holding. They contain all his wares.

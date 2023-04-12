@@ -1,1 +1,0 @@
-The wizard is a secretive person who runs a small shop to the north of town. Technically it is called a shop, but it doesn't get enough business to be considered anything other than a recurring favour. He speaks with a high pitched, somewhat raspy voice, and is beginning to lose his mind from age. 

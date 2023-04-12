@@ -1,2 +1,0 @@
-6 [[Goblin]]s are hiding in the bushes around the players. Get a perception check from the players and contest it with the average of the goblins' stealth check to see who is seen first (6d20+36 divided by 6).
-After this, the goblins jump out of the bushes and attack.
