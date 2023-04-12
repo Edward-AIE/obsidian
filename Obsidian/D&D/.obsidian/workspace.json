@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8799dac78a2155e6",
+            "id": "e20b2c64b5dcc52b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omia/Main/Players/Tash/Spell List.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7845ac7aed064040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5e/Spells/Firebolt.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b41ea45b1aa75f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Omia/Main/Players/Tash/Aluyra Laurent.md",
+                "file": "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Map.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omia/Main/Players/Tash/Aluyra Laurent.md",
+                "file": "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omia/Main/Players/Tash/Aluyra Laurent.md",
+                "file": "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Omia/Main/Players/Tash/Aluyra Laurent.md"
+                "file": "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Map.md"
               }
             }
           },
@@ -183,11 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b41ea45b1aa75f3",
+  "active": "e20b2c64b5dcc52b",
   "lastOpenFiles": [
+    "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Waypoint Fort.md",
+    "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Map.md",
     "Omia/Main/Players/Tash/Spell List.md",
-    "5e/Spells/Faerie Fire.md",
     "5e/Spells/Firebolt.md",
+    "Waypoint Fort_49x54.png",
+    "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Night Map.md",
+    "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Day Map.md",
+    "Omia/Main/Players/Tash/Aluyra Laurent.md",
+    "5e/Spells/Faerie Fire.md",
     "5e/Spells/Charm Person.md",
     "5e/Spells/Cure Wounds.md",
     "5e/Spells/Entangle.md",
@@ -203,20 +182,15 @@
     "5e/Spells/Spiritual Weapon.md",
     "Omia/House Rules.md",
     "5e/Classes/Druid.md",
-    "Omia/Main/Players/Tash/Aluyra Laurent.md",
     "Images/Pasted image 20230412150800.png",
     "Images/wildfire spirit.png",
     "5e/Races/Hadozee.md",
     "5e/Races/Half Elf.md",
     "5e/Races/Subraces/High Descent (Half Elf).md",
-    "5e/Classes/Subclasses/Circle of Wildfire (Druid).md",
     "5e/Races/Subraces",
     "5e/Classes/Subclasses",
     "5e/Classes",
     "Combat Manager.canvas",
-    "Omia/Main/Players/James/Character.md",
-    "Omia/Main/Players/James/Character 1.md",
-    "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Night Map.md",
     "Images/Pasted image 20230406223456.png",
     "Images/Fort Foul Luck - Cloudy - Night - 44x32.jpg",
     "Images/Fort Foul Luck - Cloudy - Day - 44x32.jpg",
@@ -229,7 +203,6 @@
     "Images/Pasted image 20230404140000.png",
     "Images/Pasted image 20230404135539.png",
     "Images/Pasted image 20230404135532.png",
-    "Images/Pasted image 20230404134842.png",
     "5e/Misc Rules",
     "5e/Creatures",
     "Untitled.canvas",
