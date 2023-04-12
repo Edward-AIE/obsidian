@@ -1,0 +1,1 @@
+A group of 4 [[Orc]]s are patrolling the area accosting anyone who they see. They will ask the players for all their money, and if they don’t receive it, they will “Beat you black and blue.”

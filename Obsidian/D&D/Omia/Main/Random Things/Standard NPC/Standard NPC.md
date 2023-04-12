@@ -1,0 +1,1 @@
+Random [[Voice]], random appearance, random race (non-exotic). Roll d20 to see what they know, start with a DC of 15 (no modifier) and then every time they don’t know, drop the DC by 2. Once someone has known and told the players, stop allowing anyone to know.

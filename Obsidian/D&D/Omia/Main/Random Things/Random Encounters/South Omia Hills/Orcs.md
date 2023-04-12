@@ -1,0 +1,2 @@
+1d4 [[Orc]]s guard the road and ask for their money as a toll to travel. This is not true, it is a scam. They roll deception against the player's insight, if players choose to roll insight. 
+If the players fail, they pay the toll. If they succeed, they know there is no toll and it is a scam. 

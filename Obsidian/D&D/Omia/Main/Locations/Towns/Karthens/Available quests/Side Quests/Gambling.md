@@ -1,0 +1,1 @@
+In the tavern, if the characters enter it for a second time, contains a cloaked man alone in the tavern. As soon as they go in, they hear the man, [[Hooded Figure]], say to them “Do you like to gambling?” He will play a game of [[Snake eyes]] with the players. The players can keep anything they win, and the [[Hooded Figure]] has very deep pockets. 

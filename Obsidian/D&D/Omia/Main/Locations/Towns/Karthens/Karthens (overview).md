@@ -1,0 +1,1 @@
+Karthens is a small town in a clearing in the centre of the forest engulfed Southern Isle. It is the starting location of the players.

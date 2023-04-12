@@ -1,0 +1,3 @@
+The players encounter, if they go to the east side of the town, a man called [[Peter Weavesock]]. He says that his he knows a place that leads to an underground tunnel system that he continually hears chittering sounds from. He wants the characters to check it out and hopefully clear out whatever is in there. It is a network of Ankheg tunnels, containing 6 of them.
+
+If the players come back to peter after killing all of the ankhegs, he pays them 5 gold each. 

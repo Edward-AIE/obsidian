@@ -1,0 +1,1 @@
+Run by [[Genmyar Mossfate]], the Archer's Arsenal sells bows, crossbows, bolts, arrows and other ranged weapon related goods. It is to the west of town. It has a one of a kind magical bow, [[Nidhogg's Hunger (bow)]]. Genmyar implies her partial fear of Nidhogg's Hunger, but will not tell the party why.

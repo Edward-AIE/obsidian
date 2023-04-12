@@ -1,0 +1,3 @@
+- Run by an eccentric human named [[Jim Jam]]
+- Sells various things (sells all spell components and potion ingredients, for other things roll a D20 to see if he has it. Edit DC depending on how likely it is.)
+- For anything not specified, at the DMs discretion, Jim Jam may have a couple

@@ -1,0 +1,1 @@
+6 [[Goblin]]s are sitting around a fire. If it is night time and the players attack, the goblins are surprised no matter what.

@@ -1,0 +1,3 @@
+A man in raggedy clothes sits in a corner in the back of a cave, making snaffling snarling sounds. It is too dark for anyone without darkvision to see, but anyone who has darkvision notices that he is pulling bananas out of a bag of holding, eating them alarmingly fast, and then throwing the peel in a pile to his right. 
+
+"I am bananas george and I eat roughly 2 million bananas per year. This is voluntary, as I quite like bananas," he says, with a surprisingly sane, if not aristocratic tone. 

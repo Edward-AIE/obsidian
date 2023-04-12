@@ -1,0 +1,1 @@
+Varkenbluff is a large, safe fishing city to the south of Omia. It has a bustling economy and a large population. There is a bar, tavern, inn and general store on almost every street. The players are greeted by the scent of markets and restaurants and the sound of a bustling city as soon as they arrive.

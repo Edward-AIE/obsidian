@@ -1,0 +1,1 @@
+Badger is a former adventurer gnome artificer that likes money, gambling, and artificery. He can make almost any mechanical contraption for the right price.

@@ -1,0 +1,1 @@
+Rurik is good friends with Badger and will direct the players in his direction right after meeting them. He mentions that he runs an artificer's shop which could be very valuable to the party. Rurik is an artificer too, and has his mechanical creations walk around his tavern, the [[Drunken Dragonborn Tavern]]. 

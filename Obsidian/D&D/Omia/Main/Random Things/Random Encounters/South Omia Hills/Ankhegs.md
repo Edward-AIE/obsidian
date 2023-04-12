@@ -1,0 +1,1 @@
+1d4 [[Ankheg]]s burrow out of the side of the hills and attack
