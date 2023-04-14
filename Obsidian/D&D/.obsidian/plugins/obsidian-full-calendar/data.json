@@ -1,0 +1,31 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#ff0000",
+      "directory": "Stuff/Calendar/Red"
+    },
+    {
+      "type": "local",
+      "color": "#00ff11",
+      "directory": "Stuff/Calendar/Green"
+    },
+    {
+      "type": "local",
+      "color": "#ff9500",
+      "directory": "Stuff/Calendar/Orange"
+    },
+    {
+      "type": "local",
+      "color": "#ae00ff",
+      "directory": "Stuff/Calendar/Purple"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "dayGridMonth",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}
