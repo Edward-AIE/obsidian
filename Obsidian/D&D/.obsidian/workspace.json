@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0636461c9b11d7b1",
+        "id": "c2a15d04fef4a7bd",
         "type": "tabs",
         "children": [
           {
-            "id": "dd82d090ef64975e",
+            "id": "f3229db1b136390c",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5,
-    "collapsed": true
+    "width": 400.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,16 +151,20 @@
   "active": "4543cc04836d0764",
   "lastOpenFiles": [
     "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Waypoint Fort.md",
-    "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Map.md",
-    "Untitled.md",
+    "2023-04-14.md",
     "Stuff/Templates/Spell.md",
+    "Stuff/Templates/Magic Item.md",
+    "Stuff/Templates/Class (martial).md",
+    "Stuff/Templates/Class (caster).md",
+    "Stuff/Templates/Cantrip.md",
+    "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Map.md",
+    "Combat Manager.canvas",
+    "Omia/Main/Overview.md",
+    "Omia/House Rules.md",
+    "Untitled.md",
     "5e/Spells/Firebolt.md",
     "5e/Spells/Fear.md",
-    "Stuff/Templates/Cantrip.md",
     "Stuff/Calendar/Red/2023-04-14 Liam Away.md",
-    "Stuff/Templates/Class (caster).md",
-    "Stuff/Templates/Class (martial).md",
-    "Stuff/Templates/Magic Item.md",
     "5e/Classes/Druid.md",
     "5e/Creatures/Ankheg.md",
     "Homebrew/Magic Items/Nidhogg's Hunger (bow).md",
@@ -175,16 +178,12 @@
     "Stuff/Calendar/Green/2023-04-14 Holidays.md",
     "Stuff/Calendar/Orange/2023-04-24 Matisse movie night.md",
     "Stuff/Calendar/Red/(Every S,F,R,W,T,M,U) Holidays.md",
-    "Stuff/Calendar/Green/(Every ) Holidays.md",
-    "Stuff/Calendar/Red/2023-04-19 James Away.md",
-    "Stuff/Calendar/Red/2023-04-25 James Busy.md",
     "Stuff/Calendar/Purple",
     "Stuff/Calendar/Orange",
     "Stuff/Calendar/Red",
     "Stuff/Calendar/Green",
     "Stuff/Calendar/Possible Days",
     "Stuff/Calendar",
-    "Combat Manager.canvas",
     "Stuff",
     "Stuff/Images/Waypoint Fort_49x54.png",
     "Stuff/Images/Pasted image 20230412150800.png",
