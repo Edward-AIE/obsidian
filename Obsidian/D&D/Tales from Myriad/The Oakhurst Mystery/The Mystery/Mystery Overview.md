@@ -1,0 +1,9 @@
+### The Curse
+The [[False Hydra]] is casting a curse on the town called the "[[Silent Song Curse]]." This curse causes the townsfolk to slowly lose their ability to speak. This is already causing disarray in the town as people are finding it difficult to do daily things in the midst of their struggle simply to speak. What's more, the curse causes the townsfolk to lose their memory of the people who are being silenced this way. Once the [[False Hydra]] is defeated, voices and memories will return.
+
+### The Hydra's Motivation
+The [[False Hydra]], insane and hungry for flesh and power, seeks to feed on emotions and memories, using their forgotten existence as sustenance.
+
+### Plot
+The characters will arrive at Oakhurst after travelling for a while to complete a delivery run to the town. They will soon realise that the town is mostly empty except for 4 major NPCs. [[Amelia Hawthorne]], [[Silas Wainwright]],  [[Agnes Whitewood]], and [[Elder Alistair]]. [[Elder Alistair]] is the first person the characters encounter and he will inform the characters about the problems the town is facing. During the adventure, while looking around town, the characters will find the other characters as well. The characters will search and explore empty houses to look for clues about what is going on. Once they find out that the problem is coming from under the town, they will go looking through the [[Cave Systems]] to find the cause. They will find in a large cavern, a [[False Hydra]] that is casting a curse to feed on the memories of the townsfolk. After killing the false hydra, the memories of the townsfolk will return. Including that of the players. They will remember entering the inhabited house of all the townsfolk to root through their stuff for clues. After they exit the [[Cave Systems]], they will leave the town one of two ways: the group of pervs that went through everyone's stuff OR: the group of heroes who fixed everyone's memories. 
+
