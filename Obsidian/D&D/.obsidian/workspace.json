@@ -8,11 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3229db1b136390c",
+            "id": "09af000c1666c177",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Combat Manager.canvas",
+                "viewState": {
+                  "x": -282.610505389047,
+                  "y": -60.9326296512473,
+                  "zoom": -1.4351251203126847
+                }
+              }
             }
           },
           {
@@ -74,6 +81,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "747a8746d4393b5c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -95,7 +110,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Tales from Myriad/The Oakhurst Mystery/Oakhurst/Map.md",
+=======
+                "file": "Combat Manager.canvas",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +131,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Tales from Myriad/The Oakhurst Mystery/Oakhurst/Map.md",
+=======
+                "file": "Combat Manager.canvas",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +158,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Tales from Myriad/The Oakhurst Mystery/Oakhurst/Map.md"
+=======
+                "file": "Combat Manager.canvas"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -166,6 +193,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   "active": "93ef7607d07c21df",
   "lastOpenFiles": [
@@ -228,11 +256,47 @@
     "Stuff/Calendar/Red/2023-04-14 Liam Away.md",
 =======
 >>>>>>> 58d9773eac0e3f76feb4b39ff75b226beecda14c
+=======
+  "active": "4543cc04836d0764",
+  "lastOpenFiles": [
+    "Omia/Main/Random Things/Random Encounters/Random encounters.md",
+    "Omia/Main/Random Things/Random Encounters/South Omia Hills/Table/Random Encounters.md",
+    "Omia/Main/Random Things/Random Encounters/South Omia Hills/Ankhegs.md",
+    "Omia/Main/Random Things/Random Encounters/South Omia Hills/Bananas George.md",
+    "Omia/Main/Random Things/Random Encounters/South Omia Hills/Chimera Encounter.md",
+    "Omia/Main/Random Things/Random Encounters/South Omia Hills/Goblins.md",
+    "Omia/Main/Random Things/Random Encounters/South Omia Hills/Hill Giant Encounter.md",
+    "Omia/Main/Random Things/Random Encounters/South Omia Hills/Lost Traveller.md",
+    "Omia/Main/Random Things/Random Encounters/South Omia Hills/Mysterious Ruins.md",
+    "Omia/Main/Random Things/Random Encounters/South Omia Hills/Ogre Encampment.md",
+    "Omia/Main/Random Things/Random Encounters/South Omia Hills/Orcs.md",
+    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Table/Random Encounters.md",
+    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Awakened Trees' Riddle.md",
+    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Bandit Hideout.md",
+    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Bandits in the Trees.md",
+    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Bugbears.md",
+    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Giant Ant Hill.md",
+    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Goblin Ambush.md",
+    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Goblin Camp.md",
+    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Lost Child.md",
+    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Mysterous Stranger.md",
+    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Orc Patrol.md",
+    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Stalking Owlbear.md",
+    "Omia/Main/Random Things/Random Encounters/Southern Isle Forests/Unhinged Druid.md",
+    "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Map.md",
+    "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Locations",
+    "Omia/Main/Locations/Adventure Locations/Waypoint Fort/Waypoint Fort.md",
+    "Combat Manager.canvas",
+>>>>>>> Stashed changes
     "Stuff/Templates",
     "Stuff/Calendar/Purple",
     "Stuff/Images/Waypoint Fort_49x54.png",
     "Stuff/Images/Pasted image 20230412150800.png",
     "Stuff/Images/wildfire spirit.png",
+<<<<<<< Updated upstream
+=======
+    "5e/Races/Subraces",
+>>>>>>> Stashed changes
     "Stuff/Images/Pasted image 20230406223456.png",
     "Stuff/Images/Fort Foul Luck - Cloudy - Night - 44x32.jpg",
     "Stuff/Images/Fort Foul Luck - Cloudy - Day - 44x32.jpg",

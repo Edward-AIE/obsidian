@@ -25,5 +25,10 @@
   "workspaces": false,
   "file-recovery": true,
   "publish": false,
+<<<<<<< Updated upstream
   "sync": true
+=======
+  "sync": false,
+  "bookmarks": true
+>>>>>>> Stashed changes
 }
